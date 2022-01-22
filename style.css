@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f3f3f5;
+  color: #333;
+}
+
+#numero1 {
+  font-size: large;
+  color: #ef5350;
+}
+
+#numero2 {
+  font-size: large;
+  color: #ef5350;
+}
+
+#nro1 {
+  text-align: center;
+  font-size: large;
+
+  background: #4db6ac;
+  height: 30px;
+  border-radius: 4px;
+  color: #fff;
+  margin-top: 10px;
+  margin-bottom: 4px;
+}
+
+#nro2 {
+  text-align: center;
+  font-size: large;
+
+  background: #4db6ac;
+  height: 30px;
+  border-radius: 4px;
+  color: #fff;
+  margin-top: 10px;
+  margin-bottom: 4px;
+}
+
+.container {
+  background: #fff;
+  max-width: 450px;
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 12px;
+}
+
+#titulo {
+  text-align: center;
+  margin-bottom: 5px;
+}
+#operacao {
+  text-align: center;
+  font-size: large;
+
+  background: #4db6ac;
+  height: 30px;
+  border-radius: 4px;
+  color: #fff;
+  margin-top: 11px;
+  margin-bottom: 4px;
+}
+.select {
+  text-align: center;
+}
+button {
+  background: #ef5350;
+  padding: 0 12px;
+  border-radius: 4px;
+  height: 32px;
+  border: none;
+  color: #fff;
+  transition: background 0.3s;
+  margin-top: 5px;
+}
+
+#h2Last {
+  text-align: center;
+  margin-top: 10px;
+  font-style: italic;
+}
